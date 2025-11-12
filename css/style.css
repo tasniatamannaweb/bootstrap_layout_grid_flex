@@ -1,0 +1,14 @@
+h2,h3{
+  font-size: 40px;
+  color: darkred;
+  text-align: center;
+}
+
+.box {
+  margin: 5px;
+  height: 100px;
+  background-color: red;
+  font-size: 30px;
+  color: yellow;
+  text-align: center;
+}
